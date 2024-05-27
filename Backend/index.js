@@ -8,6 +8,7 @@ const app = express();
 const PORT =  5000;
 
 // const MONGODB_URL = "mongodb://localhost:27017/Banking"
+// heloo lijith
 
 app.use(bodyParser.json());
 app.use(cors());
